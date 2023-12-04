@@ -10,5 +10,8 @@
     //return addStr;
 //}
 
-let promptStr = prompt('好きな文字');
-alert(promptStr);
+//let promptStr = prompt('好きな文字');
+//alert(promptStr);
+
+let user_hand = prompt('じゃんけんの手をグー、チョキ、パーから選ぶ')
+alert('貴方の選んだ手は' + user_hand + 'です')
